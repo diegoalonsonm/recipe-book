@@ -4,4 +4,4 @@ This is a full-stack project developed with Angular, Bootstrap and Firebase as b
 
 You can create your own user, manage your recipes and create and shopping list with all the items you will need.
 
-Visit the project: https://ng-course-recipe-book-8298c.firebaseapp.com/shopping-list
+Visit the project: https://ng-course-recipe-book-8298c.web.app/
